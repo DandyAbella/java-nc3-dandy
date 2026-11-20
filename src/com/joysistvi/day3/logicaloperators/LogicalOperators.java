@@ -1,4 +1,4 @@
-package com.javanciii.day3.logicaloperators;
+package com.joysistvi.day3.logicaloperators;
 
 public class LogicalOperators {
     public static void main(String[] args) {

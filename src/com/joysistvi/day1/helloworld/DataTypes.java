@@ -1,4 +1,4 @@
-package com.javanciii.day1.helloworld;
+package com.joysistvi.day1.helloworld;
 
 public class DataTypes {
     public static void main(String[] args) {

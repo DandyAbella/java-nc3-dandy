@@ -1,4 +1,4 @@
-package com.javanciii.day2.expensetracker;
+package com.joysistvi.day2.expensetracker;
 
 public class ExpenseTracker {
     public static void main(String[] args) {

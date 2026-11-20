@@ -1,4 +1,4 @@
-package com.javanciii.day3.logicaloperators;
+package com.joysistvi.day3.logicaloperators;
 import java.util.Scanner;
 public class LoadRegistration {
     public static void main(String[] args) {

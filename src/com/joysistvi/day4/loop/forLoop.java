@@ -1,4 +1,4 @@
-package com.javanciii.day4.loop;
+package com.joysistvi.day4.loop;
 
 public class forLoop {
     public static void main(String[] args) {
